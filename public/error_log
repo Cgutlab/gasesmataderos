@@ -1,0 +1,633 @@
+[04-May-2018 20:24:30 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:24:30 UTC] PHP Stack trace:
+[04-May-2018 20:24:30 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:24:30 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:24:30 UTC] PHP Stack trace:
+[04-May-2018 20:24:30 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:24:30 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:24:30 UTC] PHP Stack trace:
+[04-May-2018 20:24:30 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:25:45 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:25:45 UTC] PHP Stack trace:
+[04-May-2018 20:25:45 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:25:45 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:25:45 UTC] PHP Stack trace:
+[04-May-2018 20:25:45 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:25:45 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:25:45 UTC] PHP Stack trace:
+[04-May-2018 20:25:45 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:25:53 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:25:53 UTC] PHP Stack trace:
+[04-May-2018 20:25:53 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:25:53 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:25:53 UTC] PHP Stack trace:
+[04-May-2018 20:25:53 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:25:53 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:25:53 UTC] PHP Stack trace:
+[04-May-2018 20:25:53 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:00 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:00 UTC] PHP Stack trace:
+[04-May-2018 20:26:00 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:00 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:00 UTC] PHP Stack trace:
+[04-May-2018 20:26:00 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:00 UTC] PHP Stack trace:
+[04-May-2018 20:26:00 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:04 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:04 UTC] PHP Stack trace:
+[04-May-2018 20:26:04 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:04 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:04 UTC] PHP Stack trace:
+[04-May-2018 20:26:04 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:04 UTC] PHP Stack trace:
+[04-May-2018 20:26:04 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:14 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:14 UTC] PHP Stack trace:
+[04-May-2018 20:26:14 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:14 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:14 UTC] PHP Stack trace:
+[04-May-2018 20:26:14 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:14 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:14 UTC] PHP Stack trace:
+[04-May-2018 20:26:14 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:18 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:18 UTC] PHP Stack trace:
+[04-May-2018 20:26:18 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:18 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:18 UTC] PHP Stack trace:
+[04-May-2018 20:26:18 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:18 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:18 UTC] PHP Stack trace:
+[04-May-2018 20:26:18 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:24 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:24 UTC] PHP Stack trace:
+[04-May-2018 20:26:24 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:24 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:24 UTC] PHP Stack trace:
+[04-May-2018 20:26:24 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:24 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:24 UTC] PHP Stack trace:
+[04-May-2018 20:26:24 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:43 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:43 UTC] PHP Stack trace:
+[04-May-2018 20:26:43 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:43 UTC] PHP Warning:  require(/home/osolelar/public_html/airdin/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:43 UTC] PHP Stack trace:
+[04-May-2018 20:26:43 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[04-May-2018 20:26:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/airdin/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/airdin/index.php on line 24
+[04-May-2018 20:26:43 UTC] PHP Stack trace:
+[04-May-2018 20:26:43 UTC] PHP   1. {main}() /home/osolelar/public_html/airdin/index.php:0
+[25-Feb-2019 21:27:36 America/Santiago] PHP Warning:  require(/home/osolelar/public_html/gasesmataderos/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/gasesmataderos/index.php on line 23
+[25-Feb-2019 21:27:36 America/Santiago] PHP Stack trace:
+[25-Feb-2019 21:27:36 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[25-Feb-2019 21:27:36 America/Santiago] PHP Warning:  require(/home/osolelar/public_html/gasesmataderos/../vendor/autoload.php): failed to open stream: No such file or directory in /home/osolelar/public_html/gasesmataderos/index.php on line 23
+[25-Feb-2019 21:27:36 America/Santiago] PHP Stack trace:
+[25-Feb-2019 21:27:36 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[25-Feb-2019 21:27:36 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/public_html/gasesmataderos/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/public_html/gasesmataderos/index.php on line 23
+[25-Feb-2019 21:27:36 America/Santiago] PHP Stack trace:
+[25-Feb-2019 21:27:36 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:37 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:37 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:37 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:37 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:37 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:37 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:04:37 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:37 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:37 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:37 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:37 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:37 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:04:37 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:37 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:37 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:37 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:37 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:37 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:04:41 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:41 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:41 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:41 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:41 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:41 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:04:41 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:41 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:41 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:41 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:41 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:41 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:04:41 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:41 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:41 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:41 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:41 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:41 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:04:44 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:44 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:44 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:44 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:44 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:44 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:04:44 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:44 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:44 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:44 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:44 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:44 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:04:44 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:04:44 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:04:44 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:04:44 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:04:44 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:04:44 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:05:01 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:05:01 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:05:01 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:05:01 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:05:01 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:05:01 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:05:01 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:05:01 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:05:01 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:05:01 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:05:01 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:05:01 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:05:01 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:05:01 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:05:01 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:05:01 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:05:01 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:05:01 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:18:50 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:18:50 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:18:50 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:18:50 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:18:50 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:18:50 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:18:50 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:18:50 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:18:50 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:18:50 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:18:50 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:18:50 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:18:50 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:18:50 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:18:50 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:18:50 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:18:50 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:18:50 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:21:24 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:21:24 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:21:24 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:21:24 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:21:24 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:21:24 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:21:24 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:21:24 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:21:24 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:21:24 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:21:24 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:21:24 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:21:24 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:21:24 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:21:24 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:21:24 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:21:24 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:21:24 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:26:19 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:26:19 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:26:19 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:26:19 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:26:19 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:26:19 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:26:19 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:26:19 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:26:19 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:26:19 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:26:19 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:26:19 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:26:19 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:26:19 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:26:19 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:26:19 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:26:19 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:26:19 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:28:23 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:28:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:28:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:28:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:28:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:28:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:28:23 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:28:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:28:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:28:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:28:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:28:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:28:23 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:28:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:28:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:28:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:28:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:28:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:28:24 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:28:24 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:28:24 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:28:24 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:28:24 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:28:24 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:28:24 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:28:24 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:28:24 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:28:24 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:28:24 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:28:24 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:28:24 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:28:24 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:28:24 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:28:24 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:28:24 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:28:24 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:31:23 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:31:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:31:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:31:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:31:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:31:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:31:23 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:31:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:31:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:31:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:31:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:31:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:31:23 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:31:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:31:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:31:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:31:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:31:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:32:25 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:32:25 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:32:25 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:32:25 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:32:25 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:32:25 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:32:25 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:32:25 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:32:25 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:32:25 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:32:25 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:32:25 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 07:32:25 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 07:32:25 America/Santiago] PHP Stack trace:
+[26-Feb-2019 07:32:25 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 07:32:25 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 07:32:25 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 07:32:25 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:09:26 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:09:26 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:09:26 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:09:26 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:09:26 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:09:26 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:09:26 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:09:26 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:09:26 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:09:26 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:09:26 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:09:26 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:09:26 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:09:26 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:09:26 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:09:26 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:09:26 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:09:26 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:10:43 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:10:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:10:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:10:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:10:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:10:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:10:43 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:10:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:10:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:10:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:10:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:10:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:10:43 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:10:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:10:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:10:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:10:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:10:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:25:05 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:25:05 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:25:05 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:25:05 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:25:05 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:25:05 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:25:05 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:25:05 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:25:05 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:25:05 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:25:05 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:25:05 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:25:05 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:25:05 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:25:05 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:25:05 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:25:05 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:25:05 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:25:22 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:25:22 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:25:22 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:25:22 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:25:22 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:25:22 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:25:22 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:25:22 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:25:22 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:25:22 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:25:22 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:25:22 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:25:22 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:25:22 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:25:22 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:25:22 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:25:22 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:25:22 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:26:03 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:26:03 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:26:03 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:26:03 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:26:03 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:26:03 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:26:03 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:26:03 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:26:03 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:26:03 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:26:03 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:26:03 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:26:03 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:26:03 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:26:03 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:26:03 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:26:03 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:26:03 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:26:43 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:26:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:26:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:26:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:26:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:26:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:26:43 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:26:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:26:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:26:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:26:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:26:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 09:26:43 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 09:26:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 09:26:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 09:26:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 09:26:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 09:26:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:43:48 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:43:48 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:43:48 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:43:48 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:43:48 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:43:48 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:43:48 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:43:48 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:43:48 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:43:48 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:43:48 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:43:48 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:43:48 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:43:48 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:43:48 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:43:48 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:43:48 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:43:48 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:44:29 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:44:29 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:44:29 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:44:29 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:44:29 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:44:29 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:44:29 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:44:29 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:44:29 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:44:29 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:44:29 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:44:29 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:44:29 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:44:29 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:44:29 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:44:29 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:44:29 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:44:29 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:44:45 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:44:45 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:44:45 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:44:45 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:44:45 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:44:45 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:44:45 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:44:45 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:44:45 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:44:45 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:44:45 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:44:45 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:44:45 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:44:45 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:44:45 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:44:45 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:44:45 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:44:45 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:06 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:06 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:06 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:06 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:06 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:06 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:06 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:06 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:06 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:06 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:06 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:06 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:06 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:06 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:06 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:06 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:06 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:06 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:23 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:23 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:23 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:23 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:23 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:23 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:23 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:23 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:26 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:26 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:26 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:26 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:26 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:26 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:26 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:26 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:26 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:26 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:26 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:26 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:26 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:26 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:26 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:26 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:26 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:26 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:27 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:27 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:27 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:27 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:27 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:27 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:27 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:27 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:27 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:27 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:27 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:27 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:27 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:27 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:27 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:27 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:27 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:27 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:28 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:28 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:28 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:28 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:28 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:28 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:28 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:28 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:28 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:28 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:28 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:28 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:28 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:28 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:28 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:28 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:28 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:28 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:43 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:43 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:43 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:43 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:43 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:43 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:43 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:43 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:48 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:48 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:48 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:48 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:48 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:48 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:48 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:48 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:48 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:48 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:48 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:48 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:48 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:48 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:48 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:48 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:23
+[26-Feb-2019 10:45:48 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:48 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:52 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:52 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:52 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:52 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:45:52 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:52 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:52 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:52 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:52 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:52 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:45:52 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:52 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:45:52 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:45:52 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:45:52 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:45:52 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:45:52 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:45:52 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:46:58 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:46:58 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:46:58 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:46:58 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:46:58 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:46:58 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:46:58 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:46:58 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:46:58 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:46:58 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:46:58 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:46:58 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:46:58 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:46:58 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:46:58 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:46:58 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:46:58 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:46:58 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:48:04 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:48:04 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:48:04 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:48:04 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:48:04 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:48:04 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:48:04 America/Santiago] PHP Warning:  require(/home/osolelar/gasesmataderos_laravel/vendor/composer/../paragonie/random_compat/lib/random.php): failed to open stream: No such file or directory in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:48:04 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:48:04 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:48:04 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:48:04 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:48:04 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[26-Feb-2019 10:48:04 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/osolelar/gasesmataderos_laravel/vendor/composer/../paragonie/random_compat/lib/random.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php on line 66
+[26-Feb-2019 10:48:04 America/Santiago] PHP Stack trace:
+[26-Feb-2019 10:48:04 America/Santiago] PHP   1. {main}() /home/osolelar/public_html/gasesmataderos/index.php:0
+[26-Feb-2019 10:48:04 America/Santiago] PHP   2. require() /home/osolelar/public_html/gasesmataderos/index.php:27
+[26-Feb-2019 10:48:04 America/Santiago] PHP   3. ComposerAutoloaderInitfcf9b8886b3c65f37175e8bd8544c99e::getLoader() /home/osolelar/gasesmataderos_laravel/vendor/autoload.php:7
+[26-Feb-2019 10:48:04 America/Santiago] PHP   4. composerRequirefcf9b8886b3c65f37175e8bd8544c99e() /home/osolelar/gasesmataderos_laravel/vendor/composer/autoload_real.php:56
+[01-Mar-2019 10:30:14 America/Santiago] PHP Warning:  require(/home/gasesmataderosco/public_html/../../gasesmataderos_laravel/vendor/autoload.php): failed to open stream: No such file or directory in /home/gasesmataderosco/public_html/index.php on line 23
+[01-Mar-2019 10:30:14 America/Santiago] PHP Warning:  require(/home/gasesmataderosco/public_html/../../gasesmataderos_laravel/vendor/autoload.php): failed to open stream: No such file or directory in /home/gasesmataderosco/public_html/index.php on line 23
+[01-Mar-2019 10:30:14 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/gasesmataderosco/public_html/../../gasesmataderos_laravel/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/gasesmataderosco/public_html/index.php on line 23

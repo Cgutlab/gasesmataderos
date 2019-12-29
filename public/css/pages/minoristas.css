@@ -1,0 +1,11 @@
+.texto span{
+	font-size: 26px;
+	font-weight: 700;
+}
+.texto{
+	text-align: center;
+}
+.minoristarow{
+	padding-left: 18%;
+	padding-right: 18%;
+}

@@ -1,0 +1,106 @@
+.caja-slider{
+    position: absolute;
+    width: 57%;
+    text-align: center;
+    height: auto;
+    top: 29%;
+    z-index: 99;
+    padding: 1% 2%;
+    left: 22%;
+    background-color: rgba(255,255,255,0.8);
+}
+.carousel-slider{
+	height: 430px;
+}
+div.caja-slider>p{
+	font-size: 25px!important;
+    font-weight: 500;
+	color: #747484;
+	margin: 0px;
+}
+div.caja-slider>h1{
+	font-size: 70px!important;
+	font-weight: 700;
+	color: #27629D;
+	margin: 0px;
+}
+
+
+
+@media all and (max-width: 1000px){
+
+	div.caja-slider>p{
+		font-size: 18px!important;
+	}
+	div.caja-slider>h1{
+		font-size: 24px!important;
+	}
+}
+
+@media all and (max-width: 760px){
+
+	.caja-slider{
+		display: none;
+	}
+}
+
+.img-dest{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: auto;
+	position: relative;
+	    min-height: 225px;
+	border:  1px solid #DBDBEA;
+}
+
+.img-dest>img{
+	max-height: 100%;
+}
+
+.nom-dest{
+	margin-top: 11px;
+	width: 100%;
+    font-size: 25px;
+    font-weight: 500;
+    color: #597177;
+    text-align: center;
+}
+
+.fondorojo{
+	margin-top: 20px;
+	background-color: #E01613;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	color: white;
+	font-size: 25px;
+	font-weight: 300;
+	text-align: center;
+}
+.fondorojo .contenedor{
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+.fondogris{
+	background-color: #F5F5F5;
+	background-image: url('../../imagenes/imghome.png');
+	padding-top: 4%;
+	padding-bottom: 3.5%;
+}
+
+.titulotext{
+	color: #595959;
+	font-size: 25px;
+	font-weight: 300;
+	text-align: center;
+}
+
+.texthome{
+	color: #595959;
+	font-size: 17px;
+	font-weight: 400;
+	text-align: left;
+}
+
+

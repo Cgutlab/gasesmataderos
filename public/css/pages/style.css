@@ -1,0 +1,286 @@
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	color: #595959;
+	font-size: 17px;
+	font-weight: 300;
+}
+
+.rajdhani{
+	font-family: 'Rajdhani', sans-serif;
+}
+
+.img-responsive-alto{
+	max-height: 100%;
+}
+/*-----------------------------------------------------HEADER-------------------------*/
+.contenedor{
+	padding-right: 8%;
+	padding-left:  8%;
+	padding-top: 10px;
+}
+.navbar{
+	padding-right: 8%;
+	padding-left:  8%;
+}
+.sidenav-trigger{
+	color: #595959;
+}
+a.brand-logo{
+	top: -38px;
+}
+
+nav{
+	height: 134px!important;
+	color: #535355;
+    background-color: white;
+    border-bottom: 1px solid #ddd;
+}
+
+.margen-menu-centro{
+    padding: 0px 8%;
+	background-color: #27629D;
+}
+.menu-centro{
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 0px;
+	margin-top: 0px
+}
+
+
+.menu-centro  li{
+    align-items: center;
+    display: flex;
+	height: 54px;
+	padding-left: 15px;
+	padding-right: 15px;
+
+}
+.menu-centro  a{
+	color: white;
+	font-size: 15px;
+	font-weight: 300;
+}
+
+.menu-centro  li:hover{
+	background-color: white;
+}
+
+.menu-centro  li:hover a{
+	color: #E01613!important;
+	background-color: initial;
+}
+
+.menu-centro .search-content{
+	background-color: #E01613;
+	height: 27px;
+	width: 27px;
+	border-radius: 50%;
+
+}
+.datosheader{
+	color: #A4A4A5;
+	font-size: 12px;
+}
+.datosheader a{
+	color: #A4A4A5;
+	font-size: 12px;
+}
+.datosheader i{
+	color: #E01613;
+}
+img.logo{
+	width: 100%;
+}
+@media all and (max-width: 524px){
+	img.logo{
+		width: 80%;
+	}
+}
+.activodato{
+	color: white!important;
+}
+.activo{
+	color: #E01613!important;
+	background-color: initial;
+}
+.activoli{
+	background-color: white;
+}
+
+.back-white{
+	background-color: white;
+	height: auto;
+	display: flex;
+	justify-content: space-between;
+	font-size: 14px;
+}
+.datos-box{
+	float: right;
+	display: inline-block;
+	height: 40px;
+	width: 23px;
+	color: #595959;
+	display: flex;
+	align-items: center;
+	margin-left: 11px;
+}
+.circle>i{
+	margin-right: 8px;
+}
+
+/*-----------------------------------------------------FOOTER-------------------------*/
+
+.page-footer{
+	background-color:#102C48;
+	color: #A3A3A3;
+}
+
+.texto-footer{
+	font-size: 16px;
+	font-weight: 300;
+	color: #A3A3A3;
+}
+footer h5{
+	color: #E01613;
+	font-size: 22px;
+	font-weight: 600;
+}
+.texto-mail{
+        color: #A3A3A3;
+        text-decoration: none;
+        transition: 0.2s;
+        font-size: 16px;
+}
+
+
+.margenfoot{
+	margin-bottom: 100px;
+}
+footer .margenes-lateral{
+	padding-right: 10%;
+    padding-left: 10%;
+}
+footer .material-icons{
+	color: #CB161E;
+}
+
+footer img{
+	    margin-top: 13%;
+	}
+@media all and (max-width: 524px){
+	footer img{
+	    margin-top: 2%;
+	}
+}
+
+
+	
+
+/*--------------------------------------------------------------*/
+.contenedor-flex-center{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.morebutton{
+	background-color: #E77F23;
+	color: white;
+	font-size: 16px;
+	text-transform: uppercase;
+	margin-top: 4%;
+}
+.morebutton:hover{
+	background-color:  #E77F23;
+}
+.under-line{
+	border-bottom: 2px solid #007928;
+	width: 9%;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*-----------------------------Empresa-----------------------------*/
+.margen-top{
+	margin-top: 3%;
+}
+.titulohead{
+	color: #DF1413;
+	font-size: 45px;
+	    font-weight: 500;
+
+}
+.textoemp{
+	font-weight: 400;
+
+}
+
+.tituloemp{
+	color: #E01613;
+	font-size: 45px;
+	font-weight: 500;
+    margin: 0px;
+}
+
+.btn-home{
+	background-color: #27629D;
+	text-transform: uppercase;
+	color: white;
+	font-size: 17px;
+	font-weight: 500;
+	margin-top: 3%;
+	    padding-left: 3%;
+    padding-right: 3%;
+}
+.btn-home:hover{
+	background-color: #27629D;
+}
+
+/**********************************SERVICIOS*************************************/
+.textoservi h1{
+	color: #376EB4;
+	font-size: 33px;
+	font-weight: 600;
+	margin: 0px;
+	font-family: 'Rajdhani', sans-serif;
+}
+.textopost h1{
+	color: #27629D;
+	font-size: 25px;
+	font-weight: 600;
+	margin: 0px;
+	font-family: 'Rajdhani', sans-serif;
+}
+.textopost h2{
+	color: #A3A3A3;
+	font-size: 20px;
+	font-weight: 5000;
+	margin: 0px;
+	font-family: 'Rajdhani', sans-serif;
+}
+
+.formgris{
+	background-color: #F9F9F9;
+	border: 1px solid #EEEEEE;
+	padding: 10px 20px;
+}
+.textoform{
+	text-align: center;
+	margin-bottom: 4%;
+
+}
+.textoform h1{
+	color: #0C75AC;
+	font-size: 26px;
+	margin: 0px;
+	font-weight: 600;
+	font-family: 'Rajdhani', sans-serif;
+
+}
+
+.textoform p{
+	color: #5A5A5A;
+	font-size: 15px;
+	margin: 0px;
+	margin-top: 8px;
+}

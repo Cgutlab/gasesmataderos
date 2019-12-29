@@ -1,0 +1,50 @@
+.margenDescargas{
+	    margin-bottom: 13%;
+    display: flex;
+    justify-content: center;
+}
+.margenDescargas> div{
+	width: 229px;
+	height: 60px;
+	border-radius: 10px;
+}
+.contenticon{
+	background-color: #27629D;
+	width: 30%;
+	height: 60px;
+	    padding-top: 8%;
+	color: white;
+	float: left;
+	display: inline-block;
+	    border-radius: 10px 0px 0px 10px;
+}
+.titulohead{
+	color: #DF1413;
+	font-size: 45px;
+	    font-weight: 500;
+
+}
+
+.contentnombre{
+	background-color:#F4F4F4;
+	height:60px;
+	width: 70%;
+	float: right;
+	color: #E01613;
+	font-size: 15px;
+	text-align: center;
+	display: inline-block;
+    border-radius: 0px 10px 10px 0px;
+    padding-top: 11px;
+
+
+}
+
+.contentnombre h1{
+	margin: 0px;
+	color: #595959;
+	font-size: 20px;
+}
+.contentnombre p{
+	margin: 0px;
+}
